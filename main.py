@@ -48,3 +48,4 @@ while not end_of_game:
         print("You win! Great job!")
 
     print(stages[lives])
+    print(f"So far you have guessed: {guess_list}")
